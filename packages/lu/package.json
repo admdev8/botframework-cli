@@ -37,7 +37,7 @@
     "@azure/ms-rest-azure-js": "2.0.1",
     "@types/node-fetch": "~2.5.5",
     "antlr4": "^4.7.2",
-    "chalk": "2.4.1",
+    "chalk": "4.1.0",
     "console-stream": "^0.1.1",
     "deep-equal": "^1.0.1",
     "delay": "^4.3.0",
