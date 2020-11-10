@@ -37,7 +37,7 @@
     "version": "npm run doc:readme && git add README.md"
   },
   "dependencies": {
-    "@microsoft/bf-cli-command": "~1.0.0",
+    "@microsoft/bf-cli-command": "~4.11.0",
     "@oclif/command": "~1.5.19",
     "@oclif/config": "~1.13.3",
     "@oclif/errors": "~1.2.2",
